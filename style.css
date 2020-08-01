@@ -34,7 +34,7 @@ html {
   overflow: hidden;
 }
 
-/* End of Common styles */
+/* Son Common Style */
 
 /* Navbar */
 .navbar-icon {
@@ -156,7 +156,7 @@ html {
 .change .nav-link:nth-child(5) {
   transition: top 1s 1.2s, opacity 0.3s, color 0.3s;
 }
-/* End of Navbar */
+/* Son Navbar */
 
 /* Header */
 .header {
@@ -284,9 +284,9 @@ html {
     opacity: 1;
   }
 }
-/* End of Header */
+/* Son Header */
 
-/* Popular tours */
+/* Popüler Tur */
 .popular-tours {
   padding: 5rem 0 10rem 0;
 }
@@ -411,9 +411,9 @@ html {
   letter-spacing: 0.2rem;
   cursor: pointer;
 }
-/* End of Popular tours */
+/* Son Popüler Tur */
 
-/* Stories */
+/* Hikayeler */
 .stories {
   padding: 10rem 0;
   position: relative;
@@ -481,7 +481,7 @@ html {
 .story-paragraph::first-letter {
   margin-left: 1rem;
 }
-/* End of Stories */
+/* Son Hikayeler */
 
 /* Contact */
 .contact {
@@ -599,7 +599,7 @@ html {
     background-color: #3d3d3d;
   }
 }
-/* End of Contact */
+/* Son Contact */
 
 /* Footer */
 .footer {
@@ -634,7 +634,7 @@ html {
   letter-spacing: 0.2rem;
   margin-top: 5rem;
 }
-/* End of Footer */
+/* Son Footer */
 
 @media (max-width: 1200px) {
   .cards-wrapper {
