@@ -11,7 +11,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📰 Proje Description
 
 1️⃣ This is project is my first. <br/>
 2️⃣ I used technologies is VSCode, HTML, CSS, JS. <br/>
