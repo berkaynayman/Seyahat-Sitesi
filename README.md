@@ -18,3 +18,9 @@
 3️⃣ Animated background. <br/>
 4️⃣ Animated header. <br/>
 5️⃣ Animated banner. <br/>
+
+<br/>
+
+### 👁️ Design
+
+<img src="https://github.com/berkaynayman/Seyahat-Sitesi/blob/master/SiteTasarimGorseli.png" />
