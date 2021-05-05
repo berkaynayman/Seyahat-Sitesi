@@ -1,7 +1,6 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, Welcome to Seyahet Sitesi Project. 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[!(https://img.shields.io/twitter/follow/NaymanBerkay?color=1DA1F2&logo=twitter&style=for-the-badge)]
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
