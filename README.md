@@ -13,8 +13,8 @@
 
 ### 📺 Latest YouTube Videos
 
-1️⃣ This is project is my first.
-2️⃣ I used technologies is VSCode, HTML, CSS, JS.
-3️⃣ Animated background.
-4️⃣ Animated header.
-5️⃣ Animated banner.
+1️⃣ This is project is my first. <br/>
+2️⃣ I used technologies is VSCode, HTML, CSS, JS. <br/>
+3️⃣ Animated background. <br/>
+4️⃣ Animated header. <br/>
+5️⃣ Animated banner. <br/>
